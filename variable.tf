@@ -1,3 +1,4 @@
+#Child Module variables
 variable "ami" {
   description = "The AMI ID of the instance"
   type        = string
